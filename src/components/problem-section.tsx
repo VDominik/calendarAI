@@ -1,4 +1,4 @@
-import { FiList, FiAlertTriangle, FiZap } from "react-icons/fi";
+import { FiAlertTriangle, FiZap } from "react-icons/fi";
 import { GoTasklist } from "react-icons/go";
 
 
@@ -10,8 +10,8 @@ export default function ProblemSection() {
           Modern productivity is <span className="text-red-500">chaos</span>
         </h2>
         <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto">
-          We've never had more productivity tools, yet we've never been more overwhelmed.
-          The problem isn't the tools, it's the chaos.
+          We&apos;ve never had more productivity tools, yet we&apos;ve never been more overwhelmed.
+          The problem isn&apos;t the tools, it&apos;s the chaos.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -33,7 +33,7 @@ export default function ProblemSection() {
             <FiZap className="text-indigo-600 text-3xl mb-4" />
             <h3 className="font-semibold text-xl mb-6">Energy mismatches</h3>
             <p className="text-gray-600 text-md">
-              Deep work when you're tired. Meetings when you're in flow. Your schedule fights against your natural rhythms.
+              Deep work when you&apos;re tired. Meetings when you&apos;re in flow. Your schedule fights against your natural rhythms.
             </p>
           </div>
         </div>

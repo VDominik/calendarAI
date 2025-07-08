@@ -8,7 +8,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       return res.status(400).json({ error: 'Invalid email' })
     }
 
-    const { data, error } = await supabase
+    const { error } = await supabase
       .from('emails')
       .insert([{ email }])
 

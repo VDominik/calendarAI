@@ -26,7 +26,7 @@ if (error) {
       </h1>
       <p className="text-lg text-gray-600 max-w-xl mb-10">
         Be among the first to experience AI-powered productivity. <br />
-        We'll notify you when early access opens.
+        We&apos;ll notify you when early access opens.
       </p>
       <form className="w-full max-w-md" onSubmit={handleSubmit}>
         <label htmlFor="email" className="block text-left font-medium mb-1">

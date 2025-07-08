@@ -61,7 +61,7 @@ export default function SolutionSection() {
               <div>
                 <div className="font-semibold">Share your energy patterns</div>
                 <p className="text-gray-600">
-                  Tell Noltra when you're most focused, creative, or prefer meetings.
+                  Tell Noltra when you&apos;re most focused, creative, or prefer meetings.
                 </p>
               </div>
             </li>
