@@ -1,7 +1,7 @@
 export default function IntegrationSection() {
   const integrations = [
     { name: "Google Calendar", icon: "/google-calendar.png" },
-    { name: "Microsoft Outlook", icon: "/ms-outlook.png" },
+    { name: "Microsoft Outlook", icon: "/ms-outlook2.png" },
     { name: "Notion", icon: "/notion.png" },
   ];
 
